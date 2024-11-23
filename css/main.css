@@ -1,0 +1,16 @@
+#Quote {
+    font-family: "Righteous", cursive;
+    font-size: 25px;
+}
+
+.bg-hero {
+    background-image: url(../R.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+
+.btn:hover {
+    --bs-btn-hover-bg: rgb(38, 102, 172);
+    --bs-btn-hover-border-color: rgb(105, 38, 172);
+    --bs-btn-hover-color: rgb(244, 246, 248);
+}
